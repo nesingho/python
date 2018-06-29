@@ -1,7 +1,0 @@
-#!/usr/bin/python3.5
-test = [0, 1, 2]
-i = 0
-
-for i in test:
-    print(i)
-
